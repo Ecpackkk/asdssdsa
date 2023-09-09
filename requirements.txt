@@ -1,0 +1,5 @@
+aiogram
+simplejson
+jsons
+pyTelegramBotAPI
+db-sqlite3
